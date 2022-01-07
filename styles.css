@@ -1,0 +1,120 @@
+* {
+    margin: 0px;
+    background-color: #111;
+}
+
+.title {
+    background-color: black;
+    width: 700px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    padding-top: 75px;
+}
+
+.shard {
+    padding-left: 150px;
+    position: relative;
+    top: 25px;
+}
+
+.shardpic {
+    padding-left: 140px;
+    position: relative;
+    top: 25px;
+    width: 100px;
+    height: 85px;
+}
+
+.largeshard {
+    padding-left: 130px;
+    position: relative;
+    top: 25px;
+}
+
+.chunk {
+    padding-left: 140px;
+    position: relative;
+    top: 25px;
+}
+
+.slab {
+    padding-left: 140px;
+    position: relative;
+    top: 25px;
+}
+
+button {
+    margin-left:100px;
+    height: 50px;
+    width: 100px;
+    background-color:black;
+    
+}
+nav { background-color: black;
+    display: inline-block;
+    width: 500px;
+    height: 100px;
+    color: white;
+position: absolute;
+left: 800px;
+top: 50px;
+padding-left: 25px;
+padding-bottom: 25px;
+align-items: center;
+
+}
+
+.nav1{
+    text-decoration:none;
+    color: darkblue;
+    border-radius: 50%;
+}
+
+.nav2{
+    text-decoration:none;
+    color: darkblue;
+}
+
+.nav3{   
+    text-decoration:none;
+    color: darkblue;
+}
+
+.ds3 {
+    position: relative;
+    bottom: 300px;
+    float: right;
+    padding-right: 500px;
+}
+
+.text {
+    color: white;
+    text-align: left;
+    margin: 10px;
+}
+
+.text2 {
+    color: white;
+    text-align: right;
+    margin: 10px;
+}
+
+.img {
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.img2 {
+    padding-top: 100px;
+    padding-right: 100px;
+}
+
+.img3 {
+    padding-right: 100px;
+}
+
+.img4 {
+    padding-left: 100px;
+}
